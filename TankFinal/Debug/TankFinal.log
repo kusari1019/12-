@@ -1,0 +1,5 @@
+﻿  Init.cpp
+  TankFinal.cpp
+C:\Users\Administrator\source\repos\TankFinal\TankFinal\TankFinal.cpp(52,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  TankFinal.vcxproj -> C:\Users\Administrator\source\repos\TankFinal\Debug\TankFinal.exe
